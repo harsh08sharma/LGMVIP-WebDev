@@ -5,7 +5,7 @@ LetsGrowMore Virtual Internship Program September 2021
 ### DOMAIN - Web Development 
 
 # Task - 1 : Create a Single Page Website
-Level         : Beginner level
+Level         : Beginner level <br>
 Language Used : HTML,CSS,JavaScript
 IDE Used      : VS Code
 
